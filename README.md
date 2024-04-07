@@ -106,10 +106,10 @@
 我们的支持团队将尽力帮助您解决问题和提供技术支持。
 
 用户协议：
-https://raw.githubusercontent.com/CYC666/AutoTouchProject/main/pp
+https://raw.githubusercontent.com/CYC666/FoodTableProject/main/up
 
 隐私政策：
-https://raw.githubusercontent.com/CYC666/AutoTouchProject/main/up
+https://raw.githubusercontent.com/CYC666/FoodTableProject/main/pp
 
 
 
